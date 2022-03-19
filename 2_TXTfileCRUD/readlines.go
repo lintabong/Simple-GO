@@ -18,7 +18,6 @@ func main() {
 	myScanner.Split(bufio.ScanLines)
 
 	var fileText []string
-
 	for myScanner.Scan(){
 		fileText = append(fileText, myScanner.Text())
 	}
