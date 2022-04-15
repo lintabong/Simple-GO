@@ -2,4 +2,4 @@
 collection of golang code from my various experiments
 
 ### 1. Simple Calculator
-<p> simple </p>
+<p> simple calculator </p>
