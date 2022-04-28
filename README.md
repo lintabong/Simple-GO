@@ -5,3 +5,5 @@ collection of golang code from my various experiments
 <p> simple calculator need input from terminal</p>
 
 ### 2. [Render HTML](https://github.com/lintabong/Simple-GO/tree/main/2-RenderingTemplate)
+
+### 2. [REST API V.01](https://github.com/lintabong/Simple-GO/tree/main/2-RenderingTemplate)
