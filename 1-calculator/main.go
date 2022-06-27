@@ -27,7 +27,6 @@ func pembagian(a, b int) int {
 }
 
 func main() {
-
 	var mode string
 	var a int
 	var b int
